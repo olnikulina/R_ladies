@@ -1,4 +1,4 @@
 # R_ladies
 Workshop on joining data in R.
 
-All the used data could be downloaded here: http://bit.ly/2MhPTr5
+All the data used for workshop could be downloaded here: http://bit.ly/2MhPTr5
