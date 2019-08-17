@@ -1,4 +1,5 @@
 # R_ladies
-Workshop on joining data in R.
+Воркшоп з поєднання даних в R.
 
-The data used for workshop could be downloaded here: http://bit.ly/2MhPTr5
+Дані, використані під час воркшопу можна завантажити тут: http://bit.ly/2MhPTr5
+Конспект з воркшопу: http://rpubs.com/olnikulina/520522
